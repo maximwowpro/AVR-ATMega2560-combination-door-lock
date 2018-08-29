@@ -8,12 +8,9 @@
 #include "alarm.h"
 
 #include <avr/io.h>
-#include <avr/sleep.h>
-#include <avr/interrupt.h>
 
 #include <stdbool.h>
 #include <stdint.h>
-#include <stdlib.h>
 
 
 int main (void)
